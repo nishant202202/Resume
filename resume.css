@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+#mainbox {
+    width: 1000px;
+    height: 1200px;
+    background-image: linear-gradient(white,orange);
+}
+#reshead {
+    /* text-align: ; */
+    color: orange;
+   /* // font-style:; */
+}
+#logoprop
+{
+    width: 150px;
+    /* text-align: right; */
+
+}
+.maindiv {
+    display: flex;
+    justify-content: space-evenly;
+}
+.leftdiv {
+    width: 58%;
+    height: 20%;
+    text-align: right;
+    /* border: 2px solid black;  */
+}
+.rightdiv {
+    width: 30%;
+    padding-top: 1%;
+    text-align: right;
+     /* border: 2px solid black;  */
+}
